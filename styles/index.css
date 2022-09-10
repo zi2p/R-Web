@@ -1,0 +1,107 @@
+body {
+  margin: 5px 0 5px 5px;
+  font-family: "Comic Sans MS", sans-serif;
+  color: #fff;
+  background-color: #000;
+ }
+
+h1 {
+  position: right;
+  font-size: 4em;
+  font-weight: 70;
+}
+
+h2 {
+  position: relative;
+  font-size: 3em;
+  font-weight: 70;
+}
+
+h3 {
+  position: relative;
+  font-size: 2em;
+  font-weight: 70;
+}
+
+h4 {
+  position: relative;
+  font-size: 1.5em;
+  font-weight: 70;
+}
+
+h5 {
+  position: relative;
+  font-size: 1em;
+  font-weight: 70;
+  text-align: center;
+  color: #fff;
+}
+
+p {
+  position: relative;
+  font-size: 2em;
+  font-weight: 30;
+}
+
+footer {
+  color: #fff;
+}
+
+.lable {
+  width: 150px;
+}
+
+.face {
+  width: 200px; 
+}
+
+.advertising {
+  width: 90px; 
+  box-align: center;
+}
+
+.header_title {
+  position: right;
+  font-size: 4em;
+  font-weight: 70;
+}
+
+.nav {
+  position: right;
+  font-size: 1.4em;
+  font-weight: 70;
+  color: #fff;
+}
+
+.form {
+  position: relative;
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.people {
+  position: relative;
+  width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.form_input,
+.form_button,
+.date {
+  display: block;
+  box-sizing: border-box;
+  font-family: "Comic Sans MS", sans-serif;
+  width: 100%;
+  margin-bottom: 16px;
+  padding: 8px 16px;
+  transition: transform 0.3s ease-out;
+  border: none;
+  border-radius: 8px;
+  outline: none;
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #000;
+  background-color: #fff;
+}
