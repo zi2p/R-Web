@@ -49,6 +49,7 @@ footer {
 
 .lable {
   width: 150px;
+  position: sticky;
 }
 
 .face {
@@ -204,6 +205,13 @@ span.sim-dot {
 table {
   width: 70%;
   align-content: center
+}
+
+tr:nth-child(even) {
+   background: #CCC; 
+  }
+tr:nth-child(odd) { 
+  background: #bbb; 
 }
 
 /* upload-file */
